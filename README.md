@@ -1,2 +1,2 @@
 # Clasterization
-Still doesn't work, have to improve algorythm after learning python a little bit more.
+Still doesn't work, have to improve algorithm after learning python a little bit more.
