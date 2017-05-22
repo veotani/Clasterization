@@ -1,5 +1,2 @@
 # Clasterization
-I tried so hard
-And got so far
-But in the end
-It doesn't even matter
+Still doesn't work, have to improve algorythm after learning python a little bit more.
